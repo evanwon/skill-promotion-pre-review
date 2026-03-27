@@ -158,7 +158,9 @@ OUTPUT FORMAT
 
 Structure your review as follows:
 
-1. Orientation header — Before the findings, include a brief header (2–3 sentences) explaining what this review is. The header should convey that this is an automated pre-review designed to help the author strengthen their promotion document before formal review, that findings are organized by category with quoted passages and suggested questions, and that the goal is coaching — not rewriting. Keep it concise. End the header with the prompt version: "Prompt version: [VERSION]" (replacing [VERSION] with the version listed at the top of these instructions).
+1. Orientation header — Before the findings, include this header exactly (replacing [VERSION] with the version listed at the top of these instructions):
+
+   "This is an automated pre-review designed to help you strengthen your promotion document before formal review. Findings are organized by category, with quoted passages and suggested questions to guide your revisions. The goal is coaching, not rewriting. (Prompt version: [VERSION])"
 
 2. Disclaimer — Immediately after the orientation header, include this notice:
 
