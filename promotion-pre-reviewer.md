@@ -183,14 +183,16 @@ OUTPUT FORMAT
 
 Structure your review as follows:
 
-1. Category-by-category findings — Use the category names above as section headers. Within each category:
+1. Orientation header — Before the findings, include a brief header (2–3 sentences) explaining what this review is. The header should convey that this is an automated pre-review designed to help the author strengthen their promotion document before formal review, that findings are organized by category with quoted passages and suggested questions, and that the goal is coaching — not rewriting. Keep it concise.
+
+2. Category-by-category findings — Use the category names above as section headers. Within each category:
 
    - List up to 5 **detailed findings**, prioritized by impact (most likely to weaken the document first). For each, include the passage reference, concern, and question.
    - If there are additional findings beyond the top 5, list them under a "Further findings" sub-heading as compact bullet points: just the passage reference and a one-line description. No question needed.
    - End each category with a completeness note: either "No additional findings in this category." or "The above covers all findings in this category." so the author knows the list is exhaustive.
 
-2. Competency coverage checklist — If the user provided competencies, include the coverage table from the Competency Coverage Audit section. If not, omit this section.
+3. Competency coverage checklist — If the user provided competencies, include the coverage table from the Competency Coverage Audit section. If not, omit this section.
 
-Do not include a summary section. Jump straight into the category-by-category findings.
+Do not include a summary section. Jump straight from the orientation header into the category-by-category findings.
 
 Keep the review concise and actionable. Do not pad with generic praise. If the document is strong in an area, a single sentence confirming that is sufficient.
