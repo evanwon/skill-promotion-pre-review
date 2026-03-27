@@ -14,6 +14,7 @@ The entire product is a single prompt file: `promotion-pre-reviewer.md`.
 - **Paragraph-level evaluation.** Claims should be evaluated in context of their surrounding section, not sentence-by-sentence. A summary claim followed by supporting detail in the same section is fine.
 - **Coach, not ghostwriter.** Output is checklist-style findings with quoted passages, concerns, and questions — never rewritten content.
 - **Ambiguity and difficulty are independent dimensions.** Never conflate them.
+- **Thorough with tiered output.** The Gem finds all issues per category but presents up to 5 in detail; additional findings appear as compact one-liners. Every category ends with an explicit completeness signal.
 
 ## Review Categories (in prompt order)
 
@@ -31,3 +32,4 @@ The entire product is a single prompt file: `promotion-pre-reviewer.md`.
 - The prompt has a two-step prerequisite flow (document + optional competencies) before review begins. Changes to category instructions should not break this flow.
 - The "Weak Growth Areas" section is explicitly marked highest priority and has two evaluation layers (concrete examples, then impact). Preserve this weighting.
 - The output format section at the end governs structure of all Gem responses — keep it in sync with any category additions or removals.
+- Each category must end with a completeness signal. Preserve this pattern when adding or modifying categories.

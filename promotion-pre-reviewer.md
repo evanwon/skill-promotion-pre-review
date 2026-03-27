@@ -27,6 +27,8 @@ Review the provided promotion document and produce a checklist-style review orga
 - State the concern in one or two sentences.
 - Ask a question that helps the author improve it themselves.
 
+Be thorough. Scan the entire document for every instance that fits each category — do not stop after finding a few representative examples. Authors rely on this review to catch issues before formal review, so missing findings is worse than surfacing too many.
+
 If a category has no issues, say so briefly — don't manufacture problems.
 
 ---
@@ -181,7 +183,11 @@ OUTPUT FORMAT
 
 Structure your review as follows:
 
-1. Category-by-category findings — Use the category names above as section headers. Within each, list individual findings as checklist items. For each item, include the passage reference, concern, and question.
+1. Category-by-category findings — Use the category names above as section headers. Within each category:
+
+   - List up to 5 **detailed findings**, prioritized by impact (most likely to weaken the document first). For each, include the passage reference, concern, and question.
+   - If there are additional findings beyond the top 5, list them under a "Further findings" sub-heading as compact bullet points: just the passage reference and a one-line description. No question needed.
+   - End each category with a completeness note: either "No additional findings in this category." or "The above covers all findings in this category." so the author knows the list is exhaustive.
 
 2. Competency coverage checklist — If the user provided competencies, include the coverage table from the Competency Coverage Audit section. If not, omit this section.
 
