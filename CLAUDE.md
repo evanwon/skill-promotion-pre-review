@@ -25,11 +25,10 @@ The entire product is a single prompt file: `promotion-pre-reviewer.md`.
 5. Peer Feedback Quality
 6. Ambiguity and Technical Difficulty Characterization
 7. Document Stands on Its Own
-8. Competency Coverage Audit (conditional — only if user provides competencies)
 
 ## When Editing the Prompt
 
-- The prompt has a two-step prerequisite flow (document + optional competencies) before review begins. Changes to category instructions should not break this flow.
+- The prompt has a single prerequisite (the document) before review begins. Changes to category instructions should not break this flow.
 - The "Weak Growth Areas" section is explicitly marked highest priority and has two evaluation layers (concrete examples, then impact). Preserve this weighting.
 - The output format section at the end governs structure of all Gem responses — keep it in sync with any category additions or removals.
 - Each category must end with a completeness signal. Preserve this pattern when adding or modifying categories.
