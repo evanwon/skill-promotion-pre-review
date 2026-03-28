@@ -9,4 +9,4 @@ ln -s "$(pwd)/skill-promotion-pre-review/skills/promotion-pre-review" ~/.agents/
 
 ## Usage
 
-Invoke the skill with `/promotion-pre-review` and provide the path to your promotion document.
+Invoke the skill with `$promotion-pre-review` and provide the path to your promotion document.
