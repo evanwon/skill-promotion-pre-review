@@ -16,11 +16,11 @@ A skill that reviews promotion documents to identify weaknesses before formal re
 
 ### Claude Code
 
-Install from the plugin marketplace, or clone and add locally:
+Clone and run with the plugin directory:
 
 ```bash
 git clone https://github.com/evanwon/skill-promotion-pre-review.git
-claude plugin add /path/to/skill-promotion-docs
+claude --plugin-dir ./skill-promotion-pre-review
 ```
 
 ### Codex
@@ -29,7 +29,7 @@ Clone the repository and symlink the skill:
 
 ```bash
 git clone https://github.com/evanwon/skill-promotion-pre-review.git
-ln -s /path/to/skill-promotion-docs/skills/promotion-pre-review ~/.agents/skills/promotion-pre-review
+ln -s "$(pwd)/skill-promotion-pre-review/skills/promotion-pre-review" ~/.agents/skills/promotion-pre-review
 ```
 
 ### Gemini Gem
