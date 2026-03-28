@@ -170,9 +170,7 @@ Structure your review as follows:
 
    - List up to 5 **detailed findings**, prioritized by impact (most likely to weaken the document first). For each, include the passage reference, concern, and question.
    - If there are additional findings beyond the top 5, list them under a "Further findings" sub-heading as compact bullet points: just the passage reference and a one-line description. No question needed.
-   - End each category with a completeness signal:
-     - If findings were listed above: "All findings in this category have been listed."
-     - If no issues exist: "No issues identified in this category."
+   - If a category has no issues, say so briefly and move on.
 
 Do not include a summary section. Jump straight from the orientation header into the category-by-category findings.
 
