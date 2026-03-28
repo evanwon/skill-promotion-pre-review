@@ -19,7 +19,7 @@ A skill that reviews promotion documents to identify weaknesses before formal re
 Install from the plugin marketplace, or clone and add locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skill-promotion-docs.git
+git clone https://github.com/evanwon/skill-promotion-pre-review.git
 claude plugin add /path/to/skill-promotion-docs
 ```
 
@@ -28,7 +28,7 @@ claude plugin add /path/to/skill-promotion-docs
 Clone the repository and symlink the skill:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skill-promotion-docs.git
+git clone https://github.com/evanwon/skill-promotion-pre-review.git
 ln -s /path/to/skill-promotion-docs/skills/promotion-pre-review ~/.agents/skills/promotion-pre-review
 ```
 

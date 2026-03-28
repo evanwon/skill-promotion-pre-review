@@ -3,7 +3,7 @@
 Clone this repository and symlink the skill directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skill-promotion-docs.git
+git clone https://github.com/evanwon/skill-promotion-pre-review.git
 ln -s /path/to/skill-promotion-docs/skills/promotion-pre-review ~/.agents/skills/promotion-pre-review
 ```
 
