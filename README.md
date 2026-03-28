@@ -7,7 +7,7 @@ A skill that reviews promotion documents to identify weaknesses before formal re
 1. **Show, Don't Tell** — unsupported claims about quality, difficulty, or impact
 2. **Weasel Words and Hyperbole** — vague or exaggerated language
 3. **Evidence Gaps** — assertions without concrete examples
-4. **Weak Growth Areas / Reasons Not to Promote** — highest priority
+4. **Weak Growth Areas / Reasons Not to Promote** — vague or trivial growth areas
 5. **Peer Feedback Quality** — provider count, attribution, stance clarity
 6. **Ambiguity and Technical Difficulty** — unclear characterization of challenges
 7. **Document Stands on Its Own** — reliance on external links

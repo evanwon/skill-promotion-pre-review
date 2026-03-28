@@ -28,7 +28,7 @@ The skill works on **Claude Code** (plugin) and **Codex** (symlink). The core pr
 1. Show, Don't Tell
 2. Weasel Words and Hyperbole
 3. Evidence Gaps
-4. Weak Growth Areas / Reasons Not to Promote (highest priority)
+4. Weak Growth Areas / Reasons Not to Promote
 5. Peer Feedback Quality
 6. Ambiguity and Technical Difficulty Characterization
 7. Document Stands on Its Own
