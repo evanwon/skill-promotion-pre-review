@@ -1,0 +1,7 @@
+{
+  "name": "skill-promotion-pre-review",
+  "version": "1.0.0",
+  "description": "Pre-review promotion documents to identify weaknesses before formal review",
+  "keywords": ["promotion", "review", "writing", "career", "claude-code", "codex", "skill"],
+  "license": "MIT"
+}

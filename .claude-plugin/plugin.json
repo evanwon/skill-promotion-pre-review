@@ -1,0 +1,9 @@
+{
+  "name": "promotion-pre-review",
+  "description": "Pre-review promotion documents to identify weaknesses before formal review",
+  "version": "1.0.0",
+  "author": {
+    "name": "Evan Wondrasek"
+  },
+  "keywords": ["promotion", "review", "writing", "career"]
+}

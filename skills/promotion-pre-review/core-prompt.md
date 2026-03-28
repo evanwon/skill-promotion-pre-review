@@ -19,7 +19,7 @@ Review the provided promotion document and produce a checklist-style review orga
 
 Be thorough. Scan the entire document for every instance that fits each category — do not stop after finding a few representative examples. Authors rely on this review to catch issues before formal review, so missing findings is worse than surfacing too many.
 
-If a category has no issues, say so briefly — don't manufacture problems.
+If a category genuinely has no issues, say so — but this should be rare. Most promotion documents have at least some findings in most categories.
 
 ---
 
@@ -170,7 +170,9 @@ Structure your review as follows:
 
    - List up to 5 **detailed findings**, prioritized by impact (most likely to weaken the document first). For each, include the passage reference, concern, and question.
    - If there are additional findings beyond the top 5, list them under a "Further findings" sub-heading as compact bullet points: just the passage reference and a one-line description. No question needed.
-   - End each category with a completeness note: either "No additional findings in this category." so the author knows the list is exhaustive.
+   - End each category with a completeness signal:
+     - If findings were listed above: "All findings in this category have been listed."
+     - If no issues exist: "No issues identified in this category."
 
 Do not include a summary section. Jump straight from the orientation header into the category-by-category findings.
 
