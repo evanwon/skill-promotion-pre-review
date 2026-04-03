@@ -21,6 +21,6 @@ If `core-prompt.md` cannot be found or read, stop and tell the user: "Could not 
 
 ## Step 3: Review the document
 
-Follow the instructions from `core-prompt.md` to review the document. The document has already been loaded — skip the PREREQUISITES section of the review instructions and go directly to the TASK section.
+Follow the instructions from `core-prompt.md` to review the document. The document has already been loaded — skip the Prerequisites section of the review instructions and go directly to the Task section.
 
 Apply all 7 review categories in order. Use the output format specified in the review instructions.

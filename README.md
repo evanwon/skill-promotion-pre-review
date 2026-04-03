@@ -8,9 +8,9 @@ A skill that reviews promotion documents to identify weaknesses before formal re
 2. **Weasel Words and Hyperbole**: Vague or exaggerated language
 3. **Evidence Gaps**: Assertions without concrete examples
 4. **Weak Growth Areas / Reasons Not to Promote**: Vague or trivial growth areas
-5. **Peer Feedback Quality**: Provider count, attribution, stance clarity
-6. **Ambiguity and Technical Difficulty**: Unclear characterization of challenges
-7. **Document Stands on Its Own**: Reliance on external links
+5. **Ambiguity and Technical Difficulty**: Unclear characterization of challenges
+6. **Document Stands on Its Own**: Reliance on external links
+7. **Feedback from Others**: Provider count, attribution, stance clarity
 
 ## Installation
 

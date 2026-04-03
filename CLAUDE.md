@@ -29,15 +29,15 @@ The skill works on **Claude Code** (plugin) and **Codex** (symlink). The core pr
 2. Weasel Words and Hyperbole
 3. Evidence Gaps
 4. Weak Growth Areas / Reasons Not to Promote
-5. Peer Feedback Quality
-6. Ambiguity and Technical Difficulty Characterization
-7. Document Stands on Its Own
+5. Ambiguity and Technical Difficulty Characterization
+6. Document Stands on Its Own
+7. Feedback from Others
 
 ## When Editing the Review Instructions
 
 Edit `skills/promotion-pre-review/core-prompt.md` for any changes to review logic. Key constraints:
 
-- The PREREQUISITES section must stay intact for Gemini Gem compatibility (the skill wrapper skips it).
+- The Prerequisites section must stay intact for Gemini Gem compatibility (the skill wrapper skips it).
 - The "Weak Growth Areas" section is explicitly marked highest priority and has two evaluation layers (concrete examples, then impact). Preserve this weighting.
 - The output format section at the end governs structure of all responses — keep it in sync with any category additions or removals.
 - The VERSION line at the top is referenced in the output format. Update it when making changes.
@@ -48,5 +48,5 @@ Edit `skills/promotion-pre-review/SKILL.md` only for changes to input handling o
 
 - Read the document from disk (or accept pasted content as fallback).
 - Read `core-prompt.md` at runtime — never duplicate review logic inline.
-- Instruct the agent to skip the PREREQUISITES section (input is already loaded).
+- Instruct the agent to skip the Prerequisites section (input is already loaded).
 - Fail visibly if `core-prompt.md` cannot be read (do not review from memory).
